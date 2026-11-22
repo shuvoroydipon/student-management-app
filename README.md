@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A simple Student Management App built with React.js and Vite (Batch 10, M29 Assignment). Users can add, view, search, edit and delete student information. Student data is saved in the browser's LocalStorage, so it stays even after refresh.
+A simple Student Management App built with React.js and Vite . Users can add, view, search, edit and delete student information. Student data is saved in the browser's LocalStorage, so it stays even after refresh.
 
 ## Technologies Used
 
